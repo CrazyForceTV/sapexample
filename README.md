@@ -1,4 +1,4 @@
-# SAP Working sample
+# SAP working sample
  
 For the submission of a project built with Vue.js and Spring Boot, I am submitting a current university project. 
 This project is intended to become a small SaaS application designed to help sports clubs manage waiting lists digitally and in compliance with GDPR regulations. 
@@ -6,7 +6,8 @@ The entire system is divided into microservices to ensure scalability and mainta
 
 Currently, the application is being developed specifically for my football club, SC Minerva 1893, which faces challenges in managing youth teams due to a shortage of coaches. 
 
-The application works as follows: 
+##The application works as follows: 
+
 The club administrators will set up teams, coaches, and training schedules. 
 Potential new members can then send a training request.
 
